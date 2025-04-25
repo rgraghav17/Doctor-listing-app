@@ -1,0 +1,33 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 20px;
+}
+
+.app {
+  max-width: 800px;
+  margin: auto;
+}
+
+.search-bar input {
+  width: 100%;
+  padding: 8px;
+  margin-bottom: 10px;
+}
+
+.suggestion-item {
+  cursor: pointer;
+  background-color: #f0f0f0;
+  padding: 5px;
+  margin: 2px 0;
+}
+
+.filters label {
+  display: block;
+  margin: 5px 0;
+}
+
+.doctor-card {
+  border: 1px solid #ccc;
+  padding: 10px;
+  margin: 10px 0;
+}
